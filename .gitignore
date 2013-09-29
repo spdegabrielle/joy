@@ -1,0 +1,6 @@
+# backups
+*~
+# autosaves (note the #-quoting)
+\#*
+# OSX junk
+.DS_Store
